@@ -30,39 +30,39 @@ def Stats():
       ''')   
         
         
-    #Print(Mistakes) Will work on later will track mistakes and report in 
+#Print(Mistakes) Will work on later will track mistakes and report in 
 #pretty much cleans up variables and keeps tabs on the progress
 def end_cell():
     Answer = 0
-    Inv["Question_number"] = Inv["Question_number"] + 1000
+    Inv["Question_number"] = Inv["Question_number"] + 1
     if Mistakes == 3:
         Run_cell_path_Generic_end()
 #starting code to kick start the game
 def program():
     Answer = input(
         ''' 
-        ____________________________________________________________________________
-        |Welcome to the game!                                                      |
-        | In it you will have the chance to take control of a derlict ship,        |
-        | and uncover what befell you in this alpha version of The stars above!.   |
-        |The controls are simple y or n for yes or no,                             |
-        |and either a, b, c or d for your choices. Would you like to into reality? |
-        |__________________________________________________________________________|
+        __________________________________________________________________________________
+        |Welcome to the game!                                                            |
+        | In it you will have the chance to take control of a derlict starship,          |
+        | and uncover what befell you in this alpha version of The stars above!.         |
+        |The controls are simple y or n for yes or no,                                   |
+        |and either a, b, c or d for your choices. Would you like enter to into reality? |
+        |________________________________________________________________________________|
         V
         ''')
-    if Answer == ("y"):
+    if Answer == ("Y"):
         end_cell()
         Run_cell_path_start()
         
    #This will be for if you decide not to play the game
-    if Answer == ("n"):
+    if Answer == ("N"):
         print(
        '''
         ____________________________________________________________________
-        |"You decide it would be best to ingore the spark of conicness,    |
+        |"You decide it would be best to ingore the spark of consciousness,    |
         |and thus you return to the blackness of sleep once again."        |
         |Thank you for playing the stars above!                            |
-        |May the stars sign down onto your path and guide your journeys....|
+        |May the stars shine down onto, your path and guide your journey....|
         |__________________________________________________________________|
         '''
         )
@@ -71,12 +71,12 @@ def Run_cell_path_start():
      '''
      _________________________________________________________________________________
      |You fell your consciousness expand outward                                     |
-     |As it expands outward you fell somthing warm pulsating,                        |
+     |As it expands outward you feel somthing warm, and pulsating,                        |
      |sending warm throughout your body.                                             |
-     |This warmth spreads and you fill diffrent parts of you stiring                 |
-     |and you begin to understand what this warm is,                                 |
-     |but before you can explore more your eyes open. Or you think it                |
-     |was your eyes becuse there was hundreds of windows each showing diffrent things|
+     |This warmth spreads and you feel diffrent parts of you stiring                 |
+     |and you begin to understand what this warmth is,                                 |
+     |but before you can explore it more your eyes open. Or you think so, because then                |
+    |your eyes open then, hundreds of windows each showing diffrent vistas|
      |you decide it was best to calm down and you focus on a single                  |
      |window and it grows to fill your vision.                                       |
      |It looks like a starry sky know you decide what to do next?                    |
@@ -197,7 +197,11 @@ def Run_cell_path_b2():
     Answer = input('''
 You redirect power to the rest of the ship dropping capctiors power in half,
 You fell a immense wave of warm travling to the remainder of you body. "I must be part, of
-the ship to fell.. this warmth.
+the ship in order to fell.. this warmth. The warmth travels to the rest of the ship, as it
+travels down the leangth of the hull running lights flash on but the rest of the systems doesn't
+stir. Then you fell a pull and your vision snaps into a diffrent view. The was large, but it was
+dark besides for a white light in the middle which appeared to be the only light source in the room.
+You walk towards it and you notice that the light was a cloud. Filled with white sp
     '''
     )
 
