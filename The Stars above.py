@@ -201,7 +201,7 @@ the ship in order to fell.. this warmth. The warmth travels to the rest of the s
 travels down the leangth of the hull running lights flash on but the rest of the systems doesn't
 stir. Then you fell a pull and your vision snaps into a diffrent view. The was large, but it was
 dark besides for a white light in the middle which appeared to be the only light source in the room.
-You walk towards it and you notice that the light was a cloud. Filled with white sp
+You walk towards it and you notice that the light was a cloud. Filled with white spheres
     '''
     )
 
