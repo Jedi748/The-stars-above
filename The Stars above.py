@@ -59,10 +59,10 @@ def program():
         print(
        '''
         ____________________________________________________________________
-        |"You decide it would be best to ingore the spark of consciousness,    |
+        |"You decide it would be best to ingore the spark of consciousness,|
         |and thus you return to the blackness of sleep once again."        |
         |Thank you for playing the stars above!                            |
-        |May the stars shine down onto, your path and guide your journey....|
+        |May the stars shine down onto, your path and guide your journey...|
         |__________________________________________________________________|
         '''
         )
@@ -71,12 +71,12 @@ def Run_cell_path_start():
      '''
      _________________________________________________________________________________
      |You fell your consciousness expand outward                                     |
-     |As it expands outward you feel somthing warm, and pulsating,                        |
+     |As it expands outward you feel somthing warm, and pulsating,                   |
      |sending warm throughout your body.                                             |
      |This warmth spreads and you feel diffrent parts of you stiring                 |
-     |and you begin to understand what this warmth is,                                 |
-     |but before you can explore it more your eyes open. Or you think so, because then                |
-    |your eyes open then, hundreds of windows each showing diffrent vistas|
+     |and you begin to understand what this warmth is,                               |
+     |but before you can explore it more your eyes open. Or you think so, because    |
+     |then your eyes open then, hundreds of windows each showing diffrent vistas     |
      |you decide it was best to calm down and you focus on a single                  |
      |window and it grows to fill your vision.                                       |
      |It looks like a starry sky know you decide what to do next?                    |
@@ -195,13 +195,24 @@ def Run_cell_path_b1():
 
 def Run_cell_path_b2():
     Answer = input('''
-You redirect power to the rest of the ship dropping capctiors power in half,
-You fell a immense wave of warm travling to the remainder of you body. "I must be part, of
-the ship in order to fell.. this warmth. The warmth travels to the rest of the ship, as it
-travels down the leangth of the hull running lights flash on but the rest of the systems doesn't
-stir. Then you fell a pull and your vision snaps into a diffrent view. The was large, but it was
-dark besides for a white light in the middle which appeared to be the only light source in the room.
-You walk towards it and you notice that the light was a cloud. Filled with white spheres
+________________________________________________________________________________________________________________
+|You redirect power to the rest of the ship dropping capctiors power in half,                                 |
+|You fell a immense wave of warm travling to the remainder of you body. "I must be part, of                   |
+|the ship in order to fell.. this warmth. The warmth travels to the rest of the ship, as it                   |
+|travels down the leangth of the hull running lights flash on but the rest of the systems doesn't             |
+|stir. Then you fell a pull and your vision snaps into a diffrent view. The was large, but it was             |
+|dark besides for a white light in the middle which appeared to be the only light source in the room.         |
+|You walk towards it and you notice that the light was a cloud. Filled with white spheres, white lines        |
+|connected each of them as the spun in a slow circle in what ressembled a cloud floating in a blue sky.       |
+|"Beutiful, isnt it?" a voice from behind the cloud said drawing your gaze away from it. "Exuse me, who       |
+|might you be?" The woman was kindlloking of a fair build, her face was warm and kind, but what stood out     |
+|the most was that your gaze couldn't seem to focus on her dress it seem to bend and change colors whenever   |
+|you looked at it for more then a second. The kind woman moved closer to you and smiled. For some reason that |
+|seemed to make you fell warmer inside. " I am your partner among the stars. I or have you forgotten?" She    |
+|turns to look at the cloud. "I don't belive I recall though my memory still hasnt been the best here often.",|
+|she turns to look at you still flashing that smile."I see then if you will look into the node here, I        |
+|belive you will find the answers you seek."                                                                  |
+|-------------------------------------------------------------------------------------------------------------|                                                                 |
     '''
     )
 
